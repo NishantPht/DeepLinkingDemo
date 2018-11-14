@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/React/Base/RCTPerformanceLogger.h

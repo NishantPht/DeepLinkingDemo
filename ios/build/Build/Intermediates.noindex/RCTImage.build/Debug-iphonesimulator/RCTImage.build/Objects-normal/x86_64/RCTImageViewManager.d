@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/Nishant/Documents/RN/TestProj/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Nishant/Documents/RN/TestProj/node_modules/react-native/Libraries/Image/RCTImageView.h
